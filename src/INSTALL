@@ -1,0 +1,9 @@
+Building Nuclearcoin
+
+See doc/readme-qt.rst for instructions on building Nuclearcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Nuclearcoin.
+
+See doc/build-*.txt for instructions on building Nuclearcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Nuclearcoin.

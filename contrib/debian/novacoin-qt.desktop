@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Nuclearcoin
+Comment=Nuclearcoin P2P Cryptocurrency
+Comment[fr]=Nuclearcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Nuclearcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Nuclearcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Nuclearcoin;
+Categories=Office;

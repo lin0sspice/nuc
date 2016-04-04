@@ -1,0 +1,2 @@
+debian/bin/Nuclearcoind usr/bin
+src/Nuclearcoind usr/lib/Nuclearcoin
